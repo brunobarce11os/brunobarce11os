@@ -56,6 +56,13 @@ Apaixonado por tecnologia, aplico essas habilidades na criação de interfaces e
 
 ---
 
+## 📊 Linguagens Mais Usadas
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunobarce11os&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
+---
+
 ## 📜 Certificações Concluídas
 - **React Developer** – DIO (2025)  
 - **Next.js App Router Fundamentals** – Vercel Academy (2025)  
